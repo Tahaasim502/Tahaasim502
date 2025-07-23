@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Taha</h1>
+<h1 align="center">Hi there 👋, I'm Taha Asim</h1>
 <p align="center">
   🚀 Tech Enthusiast | 🛡️ Aspiring Cybersecurity Engineer | 💻 C++ & SQL Explorer
 </p>
