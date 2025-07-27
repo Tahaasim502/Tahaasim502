@@ -3,54 +3,68 @@
   🚀 Tech Enthusiast | 🛡️ Aspiring Cybersecurity Engineer | 💻 C++ & SQL Explorer
 </p>
 
----
-
-### 📌 About Me
-- 🎓 Currently in **Semester 3** of university  
-- 🌐 Learning **Cybersecurity**, **C++ (OOP/DSA)**, **SQL**, and **Python**
-- 🎯 Goal: Become a skilled **Security Engineer** and build secure systems
-- 🔧 I enjoy working on:
-  - SQL practice problems from LeetCode & HackerRank
-  - C++ Console & GUI projects using Qt
-  - Cybersecurity labs on TryHackMe
-  - Technical documentation and clean project READMEs
+🎓 I'm a second-year BS Computer Science student with a deep interest in building secure systems and solving technical problems through code and network understanding.
 
 ---
 
-### 🧠 Skills & Tools
+## 📍 Current Focus
 
-| 💻 Programming | 🧰 Tools & Platforms     | 🔐 Cybersecurity |
-|---------------|-------------------------|------------------|
-| C++, Python   | MySQL, SQLite, Qt       |               |
-| SQL           | Git & GitHub, VS Code   |  IN PROGRESS  |
-|               | Markdown, Notion        |               |
-
----
-
-### 📘 Current Projects
-- ✅ Solving SQL problems from *LeetCode* & *Sylvia Moestl Vasilik's Book*
-- ✅ Learning **CCNA**
-- ✅ Solving C++ OOP/DSA problems from *LeetCode* & *Starting out with C++ by Tony Gaddis Book*
-- ✅ Building a **Portfolio Website** to showcase my work
-- ✅ Creating mini C++ apps with GUI using Qt
+- 🔌 **CCNA Enterprise** (Networking Fundamentals, Routing & Switching)
+- 🐧 **Linux + Cybersecurity** (Security Engineer Labs, TryHackMe, Blue Team Toolkit)
+- 💾 **SQL** (Databases, Queries, Constraints, Joins, Date functions)
+- 💻 **C++ (OOP + DSA)** – Building small projects and solving problems
+- 🧠 **LeetCode** – Practicing algorithms and data structures daily
 
 ---
 
-### 📚 Learning Journey
-```bash
-💡 SQL: SELECT, WHERE, LIKE, IN, BETWEEN, CHECK, UNIQUE, DEFAULT, IF()
-💡 C++: Pointers, OOP, Functions, File Handling, DSA
-🛠️ GitHub Highlights
+## 🛠️ Tech Stack
 
--- SQL Practice Progress
-> Beginner ✅
-> Intermediate 🔄
-> Joins ➡️ Coming Soon
+- **Languages:** C++, Python (beginner), SQL
+- **Cyber Tools:** Wireshark, Nmap, OSSEC (in progress)
+- **Networking:** Cisco CLI, Subnetting, Routing (via CCNA)
+- **Dev Tools:** Git, GitHub, Qt (for C++ GUI), VS Code
+- **OS:** Linux (Ubuntu), Windows
 
--- C++ Projects
-> Console Apps ✅
-> GUI Apps using Qt 🔄
+---
+
+## 📂 My Repositories
+
+- [`QueryQuest`](https://github.com/your-username/queryquest) – SQL exercises and concepts
+- [`Starting-out-with-Tony-Gaddis`](https://github.com/your-username/starting-out-with-tony-gaddis) – C++ book solutions
+- [`taha-projects`](https://github.com/your-username/taha-projects) – General C++ + Python project collection
+- [`Book-my-seat`](https://github.com/your-username/book-my-seat) – C++ Qt GUI project
+
+---
+
+## 🧪 Learning Logs
+
+> ### 🗓️ SQL Concepts Learned:
+> - `JULIANDAY()` – Used for date calculations.
+> - `STRFTIME()` – Formats and extracts date parts like year, month, day.
+> - `JOINs` – Inner, Left, Right joins using FK-PK relationships.
+> - Aggregate functions – `COUNT()`, `AVG()`, `MAX()`, etc.
+
+> ### 🧠 CCNA Basics:
+> - OSI Model, Modulation/Demodulation
+> - What is a network, modem, and difference between analog vs digital
+> - Layer-by-layer breakdown using analogies
+
+---
+
+## 🔭 What’s Next?
+
+- ✅ Build a portfolio website
+- ✅ Push security-based mini projects (packet analysis, log analysis)
+- ✅ Work on cybersecurity labs (TryHackMe + custom challenges)
+- ✅ Consistently log learning progress in GitHub repos and notes
+
+---
+
+## 🤝 Let’s Connect
+I'm always open to collaborating on beginner-level security projects or C++ challenges. Feel free to reach out or fork any repo!
+
 📫 Reach Me
+
 🌐 https://www.linkedin.com/in/taha-asim-438b8a339 
 
 📬 tahaasim164@gmail.com
