@@ -1,75 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Taha Asim</h1>
-<p align="center">
-  🚀 Tech Enthusiast | 🛡️ Aspiring Cybersecurity Engineer | 💻 C++ & SQL Explorer
-</p>
+<h1 align="center">Hi there 👋, I'm Taha Asim</h1> <p align="center"> 🚀 Tech Enthusiast | 🛡️ Aspiring Cybersecurity Engineer | 💻 C++ & Python Explorer </p>
 
-🎓 I'm a second-year BS Computer Science student with a deep interest in building secure systems and solving technical problems through code and network understanding.
+🎓 Second-year BS Computer Science student passionate about software development, cybersecurity, and networking.
 
 ---
 
-## 📍 Current Focus
+## 📍 Focus Areas
 
-- 🔌 **CCNA Enterprise** (Networking Fundamentals, Routing & Switching)
-- 🐧 **Linux + Cybersecurity** (Security Engineer Labs, TryHackMe, Blue Team Toolkit)
-- 💾 **SQL** (Databases, Queries, Constraints, Joins, Date functions)
-- 💻 **C++ (OOP + DSA)** – Building small projects and solving problems
-- 🧠 **LeetCode** – Practicing algorithms and data structures daily
+- C++ (OOP + DSA) – Projects & problem-solving
+
+- Python & JavaScript – Automation, Pygame, web projects
+
+- Cybersecurity & Networking – TryHackMe Labs, CCNA, Linux (RHCSA)
+
+- Algorithm Practice – Daily LeetCode challenges
+
+---
+
+## 📂 Key Projects
+
+- BookMySeatGUI – C++ Qt GUI seat booking system
+
+- Inventra – C++ Qt inventory management with SQLite & file export
+
+- Cricket Series Simulator – Multi-match simulator with file handling
+
+- Python Game Development – Pygame team project, 1st place in competition
+
+- JavaScript Projects – Grade Book, Pyramid Builder
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python (beginner), SQL
-- **Cyber Tools:** Wireshark, Nmap, OSSEC (in progress)
-- **Networking:** Cisco CLI, Subnetting, Routing (via CCNA)
-- **Dev Tools:** Git, GitHub, Qt (for C++ GUI), VS Code
-- **OS:** Linux (Ubuntu), Windows
+- Languages: C++, Python, JavaScript
+
+- Frameworks & Tools: Qt, Pygame, Git, GitHub, VS Code
+
+- Cybersecurity Tools: Wireshark, Cisco Packet analysis
+
+- Networking: Cisco CLI, Subnetting, Routing
+
+- OS: Linux (kali)(In progress), Windows
 
 ---
 
-## 📂 My Repositories
+🔭 Next Steps
 
-- [`QueryQuest`](https://github.com/your-username/queryquest) – SQL exercises and concepts
-- [`Starting-out-with-Tony-Gaddis`](https://github.com/your-username/starting-out-with-tony-gaddis) – C++ book solutions
-- [`taha-projects`](https://github.com/your-username/taha-projects) – General C++ + Python project collection
-- [`Book-my-seat`](https://github.com/your-username/book-my-seat) – C++ Qt GUI project
+- Build a portfolio website
 
----
+- Push cybersecurity mini projects
 
-## 🧪 Learning Logs
+- Complete TryHackMe labs & custom challenges
 
-> ### 🗓️ SQL Concepts Learned:
-> - `JULIANDAY()` – Used for date calculations.
-> - `STRFTIME()` – Formats and extracts date parts like year, month, day.
-> - `JOINs` – Inner, Left, Right joins using FK-PK relationships.
-> - Aggregate functions – `COUNT()`, `AVG()`, `MAX()`, etc.
+- Maintain structured learning logs on GitHub
 
-> ### 🧠 CCNA Basics:
-> - OSI Model, Modulation/Demodulation
-> - What is a network, modem, and difference between analog vs digital
-> - Layer-by-layer breakdown using analogies
+----
 
----
+🤝 Connect
 
-## 🔭 What’s Next?
-
-- ✅ Build a portfolio website
-- ✅ Push security-based mini projects (packet analysis, log analysis)
-- ✅ Work on cybersecurity labs (TryHackMe + custom challenges)
-- ✅ Consistently log learning progress in GitHub repos and notes
-
----
-
-## 🤝 Let’s Connect
-I'm always open to collaborating on beginner-level security projects or C++ challenges. Feel free to reach out or fork any repo!
-
-📫 Reach Me
-
-🌐 https://www.linkedin.com/in/taha-asim-438b8a339 
+🌐 https://www.linkedin.com/in/taha-asim-438b8a339
 
 📬 tahaasim164@gmail.com
 
-📌 Based in Bahrain/Pakistan
+📌 Based in Bahrain / Pakistan
 
-⚡ Fun Fact
-I'm fueled by water and curiosity ☕✨ — always ready to debug life one semicolon at a time!
+⚡ Fun Fact: Fueled by water and curiosity ☕✨, always ready to debug life one semicolon at a time!
